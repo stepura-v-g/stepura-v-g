@@ -1,16 +1,27 @@
-## Hi there 👋
+# Vladimir Stepura
 
-<!--
-**stepura-v-g/stepura-v-g** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Frontend developer building tools and resources for the web.
 
-Here are some ideas to get you started:
+I create practical frontend components, CSS experiments and developer tools with a focus on clean implementation and useful UX.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projects
+
+### [FreeFrontend](https://freefrontend.com/)
+
+A collection of free frontend code snippets, UI components, animations and practical examples for web developers.
+
+**HTML · CSS · JavaScript · Bootstrap · Tailwind CSS**
+
+### [CSS Button Generator](https://freefrontend.com/generators/css-button-generator/)
+
+A browser-based CSS button generator for creating custom buttons and exporting HTML, CSS and Tailwind CSS.
+
+**CSS · UI Components · Accessibility · Frontend Tools**
+
+## Focus
+
+`HTML` `CSS` `JavaScript` `Frontend` `UI Components` `Accessibility` `Tailwind CSS`
+
+## Links
+
+[FreeFrontend](https://freefrontend.com/) · [CSS Button Generator](https://freefrontend.com/generators/css-button-generator/)
